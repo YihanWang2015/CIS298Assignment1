@@ -1,6 +1,10 @@
 <resources>
     <string name="app_name">CIS298Assignment1</string>
 
-    <string name="hello_world">Hello world!</string>
+    <string name="counter_text">0</string>
+    <string name="plus_button">+</string>
+    <string name="minus_button">-</string>
+    <string name="reminder_toast">You have reached to 20.</string>
+
     <string name="action_settings">Settings</string>
 </resources>
